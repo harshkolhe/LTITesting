@@ -3,4 +3,9 @@ public void TestScript1(){
 	public void TC1(){
 	System.out.println("TC-TestScript2");
  }
+
+	@Test
+	public void TC2(){
+	System.out.println("TC-Login");
+ }
 }
