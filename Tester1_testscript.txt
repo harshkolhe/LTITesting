@@ -1,0 +1,11 @@
+public void TestScript1(){
+  	@Test
+	public void Register(){
+	System.out.println("TC-Register");
+ }
+
+	@Test
+	public void Login(){
+	System.out.println("TC-Login");
+ }
+}
